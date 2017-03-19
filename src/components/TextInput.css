@@ -1,0 +1,8 @@
+.TextInput {
+  color: #fff;
+}
+
+.invalid,
+.errorMessage {
+  color: #f00;
+}
